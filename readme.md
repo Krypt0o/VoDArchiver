@@ -4,8 +4,9 @@ Twitch VoD Archiver
     Scripted Livestream Output into Local File of specified Twitch Channel
     Scripted Youtube upload of File to Archive Channel
 
-    This Script was created to workaround the Problem that most Streamers use 2 different tracks for their stream and their VOD this script will live Record the Stream
-    with all the sounds and music you wouldnt be able to hear in the twitch VOD.
+    This Script was created to workaround the Problem that most Streamers use 2 different tracks for their stream
+    and their VOD this script will live Record the Stream with all the sounds and music you wouldnt be 
+    able to hear in the twitch VOD.
 
 Installation
 
