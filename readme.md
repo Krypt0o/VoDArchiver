@@ -35,9 +35,11 @@ Usage
     Now the new_test.sh script will be called and will start to Live Record the Twitch Stream and output it into a file
     After the twitch Stream has ended, the Youtube Upload Script is called.
     You can change the paramters of the script call in new_test.sh to your liking.
-    After the Upload Script is called the terminal will output a google link so it knows where to upload the video, open the link in your browser an choose your channel.
+    After the Upload Script is called the terminal will output a google link so it knows where to upload the video, 
+    open the link in your browser an choose your channel.
     After that you will get a token, copy the token and input it into your terminal
     Now the Youtube Video will be uploaded
 
     !!IMPORTANT!!
-    The Youtube Video will be set to Private, if you want to upload unlisted or public Youtube Videos you have to go through a YouTube Audit to approve your API Projekt
+    The Youtube Video will be set to Private, 
+    if you want to upload unlisted or public Youtube Videos you have to go through a YouTube Audit to approve your API Projekt
