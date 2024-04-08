@@ -1,4 +1,4 @@
-Twitch VoD Aarchiver
+Twitch VoD Archiver
 
     Scripted Check for Onlinestatus of Twitch Channel
     Scripted Livestream Output into Local File of specified Twitch Channel
@@ -11,7 +11,11 @@ Installation
 
     Download Git Repo
     Install Streamlink (https://streamlink.github.io/index.html)
-    Install 
+    Install Google API Module
+        pip install --upgrade google-api-python-client
+        pip install --upgrade google-auth-oauthlib google-auth-httplib2
+        pip install oauth2client
+        
 
 Usage
 
