@@ -43,3 +43,4 @@ Usage
     !!IMPORTANT!!
     The Youtube Video will be set to Private, 
     if you want to upload unlisted or public Youtube Videos you have to go through a YouTube Audit to approve your API Projekt
+    (https://support.google.com/youtube/contact/yt_api_form)
