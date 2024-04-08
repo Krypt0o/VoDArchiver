@@ -23,7 +23,7 @@ streamlink -o "$newfile" twitch.tv/"$stream" best
 # Python-Skript aufrufen, um das Video hochzuladen
 python3 upload_video.py --file="$newfile" \
                         --title="$title - VoD | Panikfee" \
-                        --description="VoD vom $date Streamplan: https://www.Panikfee.de Youtube: https://youtube.com/Panikfee Twitch: https://www.twitch.tv/Panikfee" \
+                        --description="VoD vom $date Youtube: https://youtube.com/Panikfee Twitch: https://www.twitch.tv/Panikfee" \
                         --keywords="Grand Theft Auto 5,GTA RP, Roleplay" \
                         --category="20" \
                         --privacyStatus="private" \
