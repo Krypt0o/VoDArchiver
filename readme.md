@@ -25,7 +25,7 @@ Usage
     -Specify Twitch Channel in twt_functions.py under broadcaster_name
     -Create new Project via https://console.cloud.google.com/
         -Create new Google app for Oauth2 Credentials
-            -insert Client-ID and Secret from new Google App into client-secret.json
+            -insert Client-ID and Secret from new Google App into client-secrets.json
 
     execute scriptstart.sh
 
