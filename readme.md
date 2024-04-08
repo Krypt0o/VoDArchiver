@@ -39,6 +39,7 @@ Usage
     open the link in your browser an choose your channel.
     After that you will get a token, copy the token and input it into your terminal
     Now the Youtube Video will be uploaded
+    After the YouTube Video is uploaded, the local file of the Live Stream will be deleted.
 
     !!IMPORTANT!!
     The Youtube Video will be set to Private, 
